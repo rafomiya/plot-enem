@@ -2,7 +2,7 @@
 
 Exemplo de gráfico criado:
 
-!()[]
+![](https://user-images.githubusercontent.com/76710601/218256179-95be2c3f-af11-4389-b5af-9e2447fc47cf.png)
 
 ### Como usar?
 
